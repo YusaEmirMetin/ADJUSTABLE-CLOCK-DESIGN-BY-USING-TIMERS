@@ -1,9 +1,3 @@
-//Arda Ali Altıncı
-//Yüşa Emir Metin
-//Yaşar Düzdün
-//Mert Koçoğlu
-#include <Wire.h>
-#include "rgb_lcd.h"
 
 
 rgb_lcd lcd;
